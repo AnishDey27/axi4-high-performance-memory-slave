@@ -20,8 +20,8 @@ This repository currently hosts the system-level architectural specifications, d
 ## File Structure
 ```text
 ├── docs/
-│   ├── AXI4_Mem_Slave_Architecture.pdf      # Detailed microarchitecture specification and protocol compliance
-│   └── AXI4_MEM_SLAVE_ARCH.jpg              # High-level block diagram of the Write and Read paths
+│   ├── AXI4 MEM SLAVE ARCH Curr.pdf      # Detailed microarchitecture specification and protocol compliance
+│   └── AXI4 MEM SLAVE ARCH Curr.png      # High-level block diagram of the Write and Read paths
 └── README.md
 ```
 
